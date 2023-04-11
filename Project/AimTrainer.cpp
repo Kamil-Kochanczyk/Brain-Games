@@ -17,7 +17,7 @@ void AimTrainer::ShowInfoAboutGame()
 	std::cout << "- run the game from the menu\n";
 	std::cout << "- click the target in the middle to start the game\n";
 	std::cout << "- hit all targets\n";
-	std::cout << "- your average reactions time per target will be displayed in the console\n";
+	std::cout << "- your average reaction time per target will be displayed in the console\n";
 	std::cout << "- after you hit all the targets you can press the right button to play again\n";
 }
 

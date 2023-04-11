@@ -16,7 +16,7 @@ void SequenceMemory::ShowInfoAboutGame()
 	std::cout << "- run the game from the menu\n";
 	std::cout << "- click to start\n";
 	std::cout << "- try to memorize the pattern and repeat it\n";
-	std::cout << "- the number of tiles that you managed to memorize tiles will be displayed in the console\n";
+	std::cout << "- the number of tiles that you managed to memorize will be displayed in the console\n";
 	std::cout << "- WARNING - during animations the game window becomes unresponsive\n";
 }
 
